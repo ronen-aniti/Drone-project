@@ -1,6 +1,3 @@
-# planning-algorithm-for-quadcopter
-
-
 # The Drone that Flies Itself
 
 ## A project where I challenge myself to understand how drones navigate and control themselves. This is the highest level summary of what I’ve done and how I’ve done it. 
