@@ -1,8 +1,6 @@
-# planning-algorithm-for-quadcopter
+# The Drone that Flies Itself
 
-
-The Drone that Flies Itself
-A project where I challenge myself to understand how drones navigate and control themselves. This is the highest level summary of what I’ve done and how I’ve done it. 
+## A project where I challenge myself to understand how drones navigate and control themselves. This is the highest level summary of what I’ve done and how I’ve done it. 
 The General Approach
 This is a summary of the purpose of this section. For example, this section will illustrate the general approach I took to solving this problem. 
 Identify the problem
@@ -11,8 +9,9 @@ Build the best solution
 Test it
 Optimize it
 Explain it
-The Planning Problem
-Understanding the Problem and the requirements and constraints for a solution.
+
+# The Planning Problem
+## Understanding the Problem and the requirements and constraints for a solution.
 This is a summary of the purpose of this section. For example, this is a summary of the instructions I’ve received and the reasoning that’s gone alone with the instructions. 
 Drones must be capable of planning their own flight trajectories while navigating an ever-changing environment. Conclusion.
 
